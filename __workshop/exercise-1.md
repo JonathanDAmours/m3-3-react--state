@@ -43,6 +43,6 @@ Now make use of `game.started` to conditionally render the content of the page.
   </Wrapper>
 ```
 
-At this point, you app should look like this:
+<!-- At this point, you app should look like this: -->
 
 ![new game](../__lecture/assets/ex_1.png)
